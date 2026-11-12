@@ -31,8 +31,8 @@ Adicionar imagens de login, cadastro, lista, detalhe, favoritos e erro após tes
 ## Divisão de tarefas
 | Integrante | O que fez |
 |---|---|
-| preencher | preencher |
-
+| Gabriel | Conexão API |
+  Eduarda   FrontEnd
 ## O que aprendemos
 Preencher uma frase por integrante após a revisão.
 
